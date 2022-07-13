@@ -1,0 +1,30 @@
+{
+	"storyName": "Slender",
+	"hideFreeplay": false,
+	"weekBackground": "woods",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"slender-man",
+		"slenderbf",
+		"slendergf"
+	],
+	"songs": [
+		[
+			"slender mans song",
+			"slender-man",
+			[
+				115,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "slender man"
+}

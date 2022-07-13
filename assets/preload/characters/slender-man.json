@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Slender Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-23
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Slender Left Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Slender Pose Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SLENDER DOWN POSE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Slender Up Pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Slender/Slender_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "slender-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		246,
+		246
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

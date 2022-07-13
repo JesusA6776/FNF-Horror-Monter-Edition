@@ -1,0 +1,48 @@
+{
+	"storyName": "ink demon",
+	"hideFreeplay": false,
+	"weekBackground": "inkmachine",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bendy",
+		"cartoonbf",
+		"cartoongf"
+	],
+	"songs": [
+		[
+			"build our machine",
+			"bendy",
+			[
+				115,
+				255,
+				255
+			]
+		],
+		[
+			"the devils swing",
+			"bendy",
+			[
+				115,
+				113,
+				253
+			]
+		],
+		[
+			"welcome home",
+			"bendy",
+			[
+				115,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bendy the ink demon"
+}

@@ -1,0 +1,39 @@
+{
+	"storyName": "secretsong",
+	"hideFreeplay": false,
+	"weekBackground": "abmall",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cartooncat",
+		"cartoonbf",
+		"cartoongf"
+	],
+	"songs": [
+		[
+			"cartoonm",
+			"angrycartooncat",
+			[
+				60,
+				0,
+				253
+			]
+		],
+		[
+			"Ultra Instinct",
+			"angrycartooncat",
+			[
+				60,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "secretsong"
+}

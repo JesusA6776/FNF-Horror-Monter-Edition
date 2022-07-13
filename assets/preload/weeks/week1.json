@@ -1,0 +1,57 @@
+{
+	"storyName": "Cartooncat",
+	"hideFreeplay": false,
+	"weekBackground": "abmall",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"grampys house",
+			"cartooncat",
+			[
+				155,
+				113,
+				253
+			]
+		],
+		[
+			"run away",
+			"cartooncat",
+			[
+				155,
+				113,
+				253
+			]
+		],
+		[
+			"hes the cartooncat",
+			"cartooncat",
+			[
+				155,
+				113,
+				253
+			]
+		],
+		[
+			"toon catastrophes",
+			"angrycartooncat",
+			[
+				155,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"cartooncat",
+		"cartoonbf",
+		"cartoongf"
+	],
+	"weekName": "Cartooncat"
+}

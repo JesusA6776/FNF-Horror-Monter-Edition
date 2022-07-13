@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That was fun!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartooncat"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bo bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartoonbf"
+		},
+		{
+			"expression": "talk",
+			"text": "Again?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartooncat"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bo skeep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartoonbf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright I DO like playing with my prey",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartooncat"
+		},
+		{
+			"expression": "talk",
+			"text": "Ill just have to kill your girlfriend first",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartooncat"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEEEEEEP?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "cartoonbf"
+		},
+		{
+			"expression": "demon",
+			"text": "Yeah right, like im scared of an over sized cat",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartoongf"
+		},
+		{
+			"expression": "pissed",
+			"text": "beep sko bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartoonbf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, if I win I get to kill you and your girl. If you win ill maybe consider letting you two live, Deal?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartooncat"
+		},
+		{
+			"expression": "excited",
+			"text": "baaaaaa!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cartoonbf"
+		}
+	]
+}
