@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				3,
 				0
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "cartooncat idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "cartooncat idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
-				94
+				57
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "cartooncat up note",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "cartooncat up note"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
-				20
+				10
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Cartooncat left note",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cartooncat left note"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-51,
-				30
+				-6
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Cartooncat Right note",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cartooncat Right note"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
-				-80
+				-39
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "cartooncat down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cartooncat down"
 		}
 	],
 	"no_antialiasing": false,

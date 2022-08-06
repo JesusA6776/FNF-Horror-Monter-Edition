@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-    public static var HorrorMonsterEditionVersion:String = '4'; //This is also used for Discord RPC
+    public static var HorrorMonsterEdition:String = '5'; //This is also used for Discord RPC
 	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
@@ -128,7 +128,7 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Horror Monster Edition Alpha v" + HorrorMonsterEditionVersion, 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Horror Monster Edition v" + HorrorMonsterEdition, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);

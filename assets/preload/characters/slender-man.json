@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Slender Idle",
-			"indices": []
+			"indices": [],
+			"name": "Slender Idle"
 		},
 		{
-			"offsets": [
-				250,
-				-23
-			],
 			"loop": false,
-			"anim": "singLEFT",
+			"offsets": [
+				161,
+				-3
+			],
 			"fps": 24,
-			"name": "Slender Left Pose",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Slender Left Pose"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-60
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Slender Pose Left",
-			"indices": []
+			"indices": [],
+			"name": "Slender Pose Left"
 		},
 		{
-			"offsets": [
-				20,
-				-160
-			],
 			"loop": false,
+			"offsets": [
+				-8,
+				-199
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "SLENDER DOWN POSE",
-			"indices": []
+			"indices": [],
+			"name": "SLENDER DOWN POSE"
 		},
 		{
-			"offsets": [
-				14,
-				71
-			],
 			"loop": false,
-			"anim": "singUP",
+			"offsets": [
+				13,
+				51
+			],
 			"fps": 24,
-			"name": "Slender Up Pose",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Slender Up Pose"
 		}
 	],
 	"no_antialiasing": false,
